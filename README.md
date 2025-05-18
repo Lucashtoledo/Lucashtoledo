@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas Toledo!
+Welcome to my GitHub profile.
 
-<!--
-**Lucashtoledo/Lucashtoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as an IT monitoring technician
+- 🌱 I’m currently learning Python, automation, and DevOps tools  
+- 💬 Ask me about automation, scripting, or tech career paths  
+- 📫 How to reach me: lucashtoledo97p@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Bash, JavaScript (basic)
+- **Tools:** Git, GitHub Actions, Linux, VS Code, Zabix, Grafana
+- **Learning:** AWS, Python
+
+## 🌍 Connect with Me
+- 💼 [LinkedIn] (https://www.linkedin.com/in/lucas-toledo-79860220a/)
+
