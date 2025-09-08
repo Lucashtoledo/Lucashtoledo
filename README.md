@@ -10,8 +10,7 @@ Welcome to my GitHub profile.
 ## 🛠️ Tech Stack
 
 - **Languages:** Python
-- **Tools:** Git, GitHub, Linux
-- **Learning:** AWS, Python, Statistics, Physics
+- **Learning:** Python, Statistics, Physics
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn] (https://www.linkedin.com/in/lucas-toledo-79860220a/)
